@@ -1,0 +1,13 @@
+[
+  {
+    "id": 145,
+    "icao_code": "VIAG",
+    "iata_code": "AGR",
+    "name": "Agra Airport / Agra Air Force Station",
+    "type": "medium_airport",
+    "latitude_deg": 27.157683,
+    "longitude_deg": 77.960942,
+    "elevation_ft": 551,
+    "city_id": 436
+  }
+]
